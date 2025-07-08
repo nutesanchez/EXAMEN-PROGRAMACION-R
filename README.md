@@ -53,7 +53,7 @@ La función principal `estimar_calorias()` fue construida bajo principios de pro
 ## Ejecución de la app Shiny
 
 ```r
-shiny::runApp("scripts/app_nutricion.R")
+shiny::runApp("scripts/app_estimar_calorias.R")
 ```
 
 ---
